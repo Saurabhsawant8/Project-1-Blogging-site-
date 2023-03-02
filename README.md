@@ -1,10 +1,6 @@
 # project-01
 blogging sites
 
-Manu Srivastava
-
-sauss8
-
 # Lithium
 
 Repository for backend cohort - Lithium
